@@ -6,4 +6,4 @@ There are six NER model present in this repository,
 
 NER performed using Spacy, bert-base, custom bert model, bert-large-base, roberta-base-model and by using Azure congnetive service text analytics
 
-On a comparision over these models we come to figure out NER by using azure service and NER using bert-large model performs quite well over the rest.
+On a comparision over these models we come to figure out,  NER by using azure service and NER using bert-large model performs quite well over the rest.
